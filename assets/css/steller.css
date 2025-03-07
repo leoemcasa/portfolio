@@ -627,6 +627,10 @@ pre code {
   padding-left: 15px;
 }
 
+.col-md-3 img {
+  border-radius: 50%;
+}
+
 .col {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
